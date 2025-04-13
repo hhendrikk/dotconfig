@@ -15,6 +15,7 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git "${ZSH_CUSTOM:-
 
 > Open ~/.zshrc, change plugins to "plugins=(git z)"
 > Open ~/.zshrc, find the line that sets ZSH_THEME, and change its value to "powerlevel10k/powerlevel10k"
+
 > #Aliases
 > alias vim="nvim"
 
