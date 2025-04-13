@@ -6,6 +6,12 @@
 sudo dnf install zsh
 ```
 
+- Git
+
+```bash
+brew install gig
+```
+
 - OH-MY-ZSH
 
 ```bash
@@ -23,12 +29,6 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git "${ZSH_CUSTOM:-
 
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-```
-
-- Git
-
-```bash
-brew install gig
 ```
 
 - Wezterm
