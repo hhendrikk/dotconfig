@@ -58,7 +58,7 @@ brew install yazi ffmpeg sevenzip jq poppler fd ripgrep fzf zoxide resvg imagema
 - Dot configs
 
 ```bash
-git clone git@github.com:hhendrikk/dotconfig ~/.dotconfig
+git clone git@github.com:hhendrikk/dotconfig.git ~/.dotconfig
 cd ~/.dotconfig
 chmod +x ./links.sh
 ./links.sh
