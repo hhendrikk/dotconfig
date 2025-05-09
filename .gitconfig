@@ -55,7 +55,7 @@
 	cmd = meld --auto-merge $LOCAL $BASE $REMOTE --output=$MERGED --diff $BASE $LOCAL --diff $BASE $REMOTE
 
 [merge]
-	tool = meld
+	tool = kdiff3
 
 [mergetool]
 	prompt = false
