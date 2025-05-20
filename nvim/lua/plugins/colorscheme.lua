@@ -1,10 +1,9 @@
 return {
-  { "shaunsingh/nord.nvim" },
-
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "nord",
+      colorscheme = "catppuccin-mocha",
+      priority = 1000,
     },
   },
 }

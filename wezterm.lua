@@ -15,9 +15,9 @@ wezterm.on("gui-startup", function()
 	window:gui_window():maximize()
 end)
 
-config.color_scheme = "nord"
-config.font = wezterm.font("FiraCode Nerd Font Mono")
-config.font_size = is_darwin() and 14.0 or 12.0
+config.color_scheme = "Cattpuccin-mocha"
+config.font = wezterm.font("Monaspace Radon")
+config.font_size = is_darwin() and 16.0 or 12.0
 config.window_background_opacity = 0.95
 config.text_background_opacity = 0.3
 
